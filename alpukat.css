@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color:black;
+}
+
+img.satu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;width: 350px;
+    height: 150px;
+
+
+}
+
+body{
+    background-color:yellow;}
+
+p{text-align: center;}
+img.dua{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
+
+img.tiga{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
+
+img.empat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
+img.lima{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
+img.enam{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 1     50px;
+}
+div.promo{
+    text-align: center;
+}
+div.tombol{
+    text-align: center;
+}
